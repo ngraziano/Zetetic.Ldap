@@ -11,3 +11,5 @@ obj/Debug
 [Bb]in/
 *.vspscc
 *.vssscc
+
+packages/
